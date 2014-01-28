@@ -1,1 +1,1 @@
-This repository is for my website, found [here](https://patricknevels.com).
+This repository is for my website, found [here](http://patricknevels.com).
